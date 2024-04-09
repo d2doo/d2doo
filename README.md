@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d2doo
-- 👀 I’m interested in python
+- 👀 I’m interested in Python,Django, Java Script, Type Script, React.js, Vue.js 
 - ❓ Why is my profile picture a sloth?
 - ❗ JUST, I look like a sloth.
 
