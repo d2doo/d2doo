@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Front-end%20developer%20%0Ad2doo's%20Github&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Front-end%20developer-nl-Ad2doo's%20Github&fontSize=70)
 
 - 👋 Hi, I’m @d2doo
 - 👀 I’m interested in Python,Django, Java Script, Type Script, React.js, Vue.js 
