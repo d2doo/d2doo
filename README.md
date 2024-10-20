@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 - 👋 Hi, I’m @d2doo
 - 👀 I’m interested in Python,Django, Java Script, Type Script, React.js, Vue.js 
 - ❓ Why is my profile picture a sloth?
