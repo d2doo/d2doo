@@ -7,10 +7,7 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
+
 
 ![d2doo's GitHub stats](https://github-readme-stats.vercel.app/api?username=d2doo&show_icons=true&theme=gruvbox)
 
@@ -23,8 +20,7 @@
 <br />
 <br />
 <br />
-<br />
-<br />
+
 
 
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -80,8 +76,7 @@
 <br />
 <br />
 <br />
-<br />
-<br />
+
 
 <p>👋 Hi, I’m @d2doo</p>
 <p>❓ Why is my profile picture a sloth?</p>
